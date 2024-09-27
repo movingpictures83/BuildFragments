@@ -1,0 +1,2 @@
+Prefix plugins/BuildFragments/example/
+Plugin BuildFragments inputfile parameters.txt outputfile fragments.rds

@@ -1,0 +1,5 @@
+bamfile	ERR188088.bam
+preproc	preprocessedData.rda
+readlength	75
+minsize	125
+maxsize	175
